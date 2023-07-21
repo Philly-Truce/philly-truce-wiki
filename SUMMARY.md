@@ -1,7 +1,7 @@
 # Table of contents
 
 * [👋 Welcome!](README.md)
-* [🌿 Join PHILLY TRUCE](join-philly-truce.md)
+* [🌱 Join PHILLY TRUCE](join-philly-truce.md)
 
 ## About us
 
