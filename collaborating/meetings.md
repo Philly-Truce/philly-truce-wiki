@@ -12,6 +12,6 @@ As we don't want to wait for our next offsite to spend some quality time togethe
 
 We meet on a weekly basis and sync between our cycle teams and the company as a whole.
 
-### 🌍 Offsites
+### 🕺Team Outings
 
-Every few months we arrange a company offsite so we can all meet face to face.
+Every other hack night, we strive to go on a team outing.&#x20;
