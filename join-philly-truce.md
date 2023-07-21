@@ -14,7 +14,7 @@ This onboarding form is for capturing essential information about you and your s
 
 You are also welcome (encouraged, in fact!) to join any of the team-specific channels prefixed with "phillytruce", even if you don't see yourself being involved in that team.
 
-If you haven't yet joined the Code for Philly Slack, follow the steps below:
+#### If you haven't yet joined the Code for Philly Slack, follow the steps below:
 
 * [Create a new account on the Code for Philly website](https://codeforphilly.org/register)
 * Using your new account credentials, [login to the Code for Philly Slack](https://codeforphilly.org/chat).
