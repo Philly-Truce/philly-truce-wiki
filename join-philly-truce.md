@@ -26,7 +26,7 @@ If you're not familiar with Slack, not to worry! The [Slack Help Center](https:/
 
 ## 3️⃣ [Set up a 15min meeting with Quinn](https://cal.com/quinnm).
 
-Quinn is one of the project managers of PHILLY TRUCE. He's more than happy to show you around the project and answer any questions you may have.
+Quinn is one of the project managers of PHILLY TRUCE. During this meeting, he'll be able to get you up to speed on the project and answer any questions you may have.
 
 ***
 
