@@ -1,4 +1,4 @@
-# 🌿 Join PHILLY TRUCE
+# 🤝 Join PHILLY TRUCE
 
 **Interested in contributing to the PHILLY TRUCE project?**&#x20;
 

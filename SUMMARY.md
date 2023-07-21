@@ -13,7 +13,8 @@
 
 ## Collaborating
 
-* [🤝 How we Work Together](collaborating/how-we-work-together.md)
+* [🏗 Project Structure](collaborating/project-structure.md)
+* [🤝 How We Work](collaborating/how-we-work.md)
 * [📅 Meetings](collaborating/meetings.md)
 
 ##

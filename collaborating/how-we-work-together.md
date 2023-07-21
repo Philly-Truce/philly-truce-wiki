@@ -1,5 +1,0 @@
-# 🤝 How we Work Together
-
-
-
-###
