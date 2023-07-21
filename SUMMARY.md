@@ -1,7 +1,7 @@
 # Table of contents
 
 * [👋 Welcome!](README.md)
-  * [🌱 Join PHILLY TRUCE](welcome/join-philly-truce.md)
+* [🌿 Join PHILLY TRUCE](join-philly-truce.md)
 
 ## About us
 
@@ -15,3 +15,5 @@
 
 * [🤝 How we Work Together](collaborating/how-we-work-together.md)
 * [📅 Meetings](collaborating/meetings.md)
+
+##

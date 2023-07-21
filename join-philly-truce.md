@@ -1,4 +1,4 @@
-# 🌱 Join PHILLY TRUCE
+# 🌿 Join PHILLY TRUCE
 
 **Interested in contributing to the PHILLY TRUCE project?**&#x20;
 
@@ -33,4 +33,3 @@ Quinn is one of the project managers of PHILLY TRUCE. He's more than happy to sh
 ## 🥳 Congratulations! You've completed our onboarding process.
 
 Welcome to the PHILLY TRUCE team. We're so glad to have you here.
-
