@@ -2,8 +2,6 @@
 
 ## Our Focus
 
-{% hint style="info" %}
-**GitBook tip:** a good focus statement tells people what you're working on **right now** to get closer to achieving your vision and fulfilling your mission.
-{% endhint %}
+**PHILLY TRUCE's current aim is to leverage technology to help reduce violent conflict in Philadelphia.**&#x20;
 
-Our company vision is to **be the authoritative reference point for environmentally conscious buyers** and to **encourage more sustainable business practices** through curating beautiful, practical, consciously-produced products.
+We are building a new digital platform, based on the original PHILLY TRUCE app, to support young adults facing conflict. It provides a free and easy way for at-risk youth to get connected with a trained mediator who can help them de-escalate the situation and avoid potentially deadly disputes.

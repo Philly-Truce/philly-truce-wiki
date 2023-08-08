@@ -2,8 +2,8 @@
 
 ## Our Mission
 
-{% hint style="info" %}
-**GitBook tip:** a good mission statement tells people **why** you exist and what your impact on the world can be.
-{% endhint %}
+**At PHILLY TRUCE, our mission is to reduce gun violence and promote a culture of peace in Philadelphia communities.**
 
-Our company mission is to…
+We are dedicated to empowering individuals, engaging communities, and building technology to foster safer neighborhoods and encourage nonviolent paths.
+
+By providing resources and tools to help de-escalate conflicts, we strive to transform Philadelphia into a city where peace prevails, and all residents can live free from the fear of gun violence.

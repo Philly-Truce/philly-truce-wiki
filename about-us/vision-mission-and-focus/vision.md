@@ -2,8 +2,6 @@
 
 ## Our Vision
 
-{% hint style="info" %}
-**GitBook tip:** a good vision statement shows the long-term goals of the company without getting too deep into strategy, implementation, or product specifics.
-{% endhint %}
+**PHILLY TRUCE believes in a conflict-free Philadelphia.**
 
-Our company vision is to **be the authoritative reference point for environmentally conscious buyers** and to **encourage more sustainable business practices** through curating beautiful, practical, consciously-produced products.
+We envision a city where every individual feels safe, families flourish, and communities are united in a shared commitment to peace.
