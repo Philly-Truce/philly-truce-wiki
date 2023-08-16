@@ -9,7 +9,6 @@
   * [Vision](about-us/vision-mission-and-focus/vision.md)
   * [Mission](about-us/vision-mission-and-focus/mission.md)
   * [Focus](about-us/vision-mission-and-focus/focus.md)
-* [Page 1](about-us/page-1.md)
 * [💖 Values](about-us/values.md)
 
 ## Collaborating
